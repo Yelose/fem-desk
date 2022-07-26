@@ -12,7 +12,6 @@ class Solicitudes
 {
     private ?int $id;
     private string $solicitud;
-    private string $issue;
     private $database;
     private $table = "solicitudes";
     private array $solicitudes;
@@ -74,7 +73,6 @@ class Solicitudes
 
     public function save(): void
     {
-        /*$this->database->mysql->query("INSERT INTO `{$this->table}` (`id`, `solicitud`, `issue`, `date_time`) VALUES (NULL, `{$this->solicitud}`, `{$this->issue}`, '')");*/
         $this->database->mysql->query("INSERT INTO `{$this->table}` 
         (`departamento`, `nombre`, `consulta`, `descripcion`) 
         VALUES ('$this->departamento','$this->nombre',
@@ -103,12 +101,10 @@ class Solicitudes
 
         return $solicitudes;
     }
-
-
     public function delete()
     {
-
-        $query = $this->database->mysql->query("DELETE FROM `{$this->table}` WHERE `{$this->table}`.`id` = {$this->id}");
+        $query = $this->database->mysql->query("DELETE FROM `{$this->table}` 
+        WHERE `{$this->table}`.`id` = {$this->id}");
     }
 
     public function findById($id)
@@ -129,6 +125,12 @@ class Solicitudes
 
     public function Update()
     {
-        $this->database->mysql->query("UPDATE `{$this->table}` SET `solicitud` =  '{$this->solicitud}', `issue` =  '{$this->issue}' WHERE `id` = {$this->id}");
+        $this->database->mysql->query("UPDATE `{$this->table}` 
+        SET `solicitud` =  '{$this->solicitud}', 
+        `departamento` =  '{$this->departamento}', 
+        `nombre` = '{$this->nombre}',
+        `consulta` = '{$this->consulta}',
+        `descripcion` = '{$this->descripcion}',
+        WHERE `id` = {$this->id}");
     }
 }
