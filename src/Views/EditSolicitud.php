@@ -13,7 +13,7 @@
         <form class="justify-content-center " action='?action=update&id=<?php echo $data["solicitud"]->getId() ?>' method="post">
             <div class="input-group" style=" margin-bottom: 2rem; width: 90%; margin-left: 5%;">
                 <span class="input-group-text">solicitud / Team</span>
-                <!--<input type="text" name="name" required value='<?php /*echo $data["student"]->getName()*/ ?>'>-->
+                
                 <input class="form-control" type="text" name="solicitud" required value='<?php echo $data["solicitud"]->getSolicitud() ?>'>
             </div>
             <div class="input-group" style="width: 90%; margin-left: 5%;">
