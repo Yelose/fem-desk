@@ -26,7 +26,7 @@ class Solicitudes
         string $descripcion = '',
         $solicitudes = [],
         $solicitudItem = [],
-    
+
     ) {
         $this->id = $id;
         $this->fecha = $fecha;
@@ -74,9 +74,11 @@ class Solicitudes
 
     public function save(): void
     {
-
         /*$this->database->mysql->query("INSERT INTO `{$this->table}` (`id`, `solicitud`, `issue`, `date_time`) VALUES (NULL, `{$this->solicitud}`, `{$this->issue}`, '')");*/
-        $this->database->mysql->query("INSERT INTO `{$this->table}` (`solicitud`, `issue`) VALUES ('$this->solicitud','$this->issue');");
+        $this->database->mysql->query("INSERT INTO `{$this->table}` 
+        (`departamento`, `nombre`, `consulta`, `descripcion`) 
+        VALUES ('$this->departamento','$this->nombre',
+        '$this->consulta','$this->descripcion')");
     }
 
     public function all()
@@ -88,9 +90,9 @@ class Solicitudes
 
         foreach ($solicitudArray as $solicitud) {
             $solicitudItem = new Solicitudes(
-                $solicitud["id"], 
-                $solicitud["fecha"], 
-                $solicitud["departamento"], 
+                $solicitud["id"],
+                $solicitud["fecha"],
+                $solicitud["departamento"],
                 $solicitud["nombre"],
                 $solicitud["consulta"],
                 $solicitud["descripcion"]
@@ -115,9 +117,9 @@ class Solicitudes
         $result = $query->fetchAll();
 
         return new Solicitudes(
-            $result[0]["id"], 
-            $result[0]["fecha"], 
-            $result[0]["departamento"], 
+            $result[0]["id"],
+            $result[0]["fecha"],
+            $result[0]["departamento"],
             $result[0]["nombre"],
             $result[0]["consulta"],
             $result[0]["descripcion"]

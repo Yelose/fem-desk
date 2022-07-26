@@ -7,21 +7,22 @@ class Logger {
     
     private $dirOpenLog = "./src/logs/log.txt";
 
-    public function logCreate ($newCoder){
+    public function logCreate ($newSolicitud){
         $logFile = fopen("{$this->dirOpenLog}", 'a') or die("Error creando archivo");
-        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha creado una solicitud con Nombre del Coder: "."{$newCoder->getcoder()}"." con Issue: "."{$newCoder->getissue()}") or 
+        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha creado una solicitud con Nombre del Solicitud: 
+        "."{$newSolicitud->getNombre()}"." con Descripcion: "."{$newSolicitud->getDescripcion()}") or 
             die("Error escribiendo en el archivo");fclose($logFile);
     }
 
-    public function logUpdate ($newCoder){
+    public function logUpdate ($newSolicitud){
         $logFile = fopen("{$this->dirOpenLog}", 'a') or die("Error creando archivo");
-        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha actualizado ID: "."{$newCoder->getId()}"." con Nombre del Coder: "."{$newCoder->getcoder()}"." con Issue: "."{$newCoder->getissue()}") or 
+        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha actualizado ID: "."{$newSolicitud->getId()}"." con Nombre del Solicitud: "."{$newSolicitud->getNombre()}"." con Descripcion: "."{$newSolicitud->getDescripcion()}") or 
             die("Error escribiendo en el archivo");fclose($logFile);
     }
 
-    public function logDelete ($newCoder){
+    public function logDelete ($newSolicitud){
         $logFile = fopen("{$this->dirOpenLog}", 'a') or die("Error creando archivo");
-        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha eliminado ID: "."{$newCoder->getId()}"." con Nombre del Coder: "."{$newCoder->getcoder()}"." con Issue: "."{$newCoder->getissue()}") or 
+        fwrite($logFile, "\n".date("d/m/Y H:i:s")." se ha eliminado ID: "."{$newSolicitud->getId()}"." con Nombre del Solicitud: "."{$newSolicitud->getNombre()}"." con Descripcion: "."{$newSolicitud->getDescripcion()}") or 
             die("Error escribiendo en el archivo");fclose($logFile);
 
     }
