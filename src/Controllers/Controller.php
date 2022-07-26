@@ -68,11 +68,11 @@ class Controller
     public function store(array $request): void
     {
         
-        $newsolicitud = new Solicitudes(0,$request["solicitud"],$request["issue"]);
+        $newSolicitud = new Solicitudes(0, 0, $request["departamento"],$request["nombre"],$request["consulta"],$request["descripcion"]);
 
-        $newsolicitud->save();
+        $newSolicitud->save();
 
-        $this-> logger->logCreate($newsolicitud);
+        $this-> logger->logCreate($newSolicitud);
 
 
         $this->index();
