@@ -1,4 +1,4 @@
-:root{
+:root {
     --bg-color: hsl(43, 100%, 90%);
     --second-color: 210;
     --bg-sec-dark: hsl(var(--second-color), 60%, 60%);
@@ -9,17 +9,19 @@
 
 body {
     background-image: url("src/assets/img/fem-desk-fondo.png");
-    background-color: var(--bg-color);  
-    
+    background-color: var(--bg-color);
+
 }
 
-header{
+header {
     background-color: var(--bg-color);
 }
+
 footer {
     background-color: var(--bg-sec-dark);
 }
-img{
+
+img {
     width: 15vw;
     height: 15vw;
     max-width: 160px;
@@ -28,3 +30,50 @@ img{
     min-height: 90px;
 }
 
+.pop-up-mask {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pop-up-container {
+    background-color: white;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.btns-confirm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing);
+}
+
+.solicitudes-container {
+    background-color: white;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 900px) {
+    .table-consulta {
+        display: none;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+    .table-nombre {
+        display: none;
+    }
+}
