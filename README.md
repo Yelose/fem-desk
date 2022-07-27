@@ -15,20 +15,11 @@
 
 ## 🛠️ Herramientas usadas en este proyecto
 
-| Herramientas |
+
+| |
 | :---: |
-| <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="50" height="50"> |
-<ul>
-  <li>Visual Studio Code</li>
-  <li>Figma</li>
-  <li>GoogleDocs</li>
-  <li>GoogleFonts</li>
-  <li>Zoom</li>
-  <li>Bootstrap</li>
-  <li>PDO</li>
-  <li>SQL</li>
-  <li>PHPMyAdmin</li>
-</ul>
+| <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/php.png" width="80" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png" width="50" height="50"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google.svg" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/mysql.png" width="80" height="50"> |
+
 
 
 <hr>
