@@ -10,9 +10,7 @@
 <ul>
   <li>Visual Studio Code</li>
   <li>Figma</li>
-  <li>GoogleDocs</li>
   <li>GoogleFonts</li>
-  <li>Zoom</li>
   <li>Bootstrap</li>
   <li>PDO</li>
   <li>MySQL</li>
@@ -20,7 +18,7 @@
 </ul>
 
 
-## ✒️ Autores 
+## ✒️ Autoras 
 <ul>
   <li>Cristina (web developer)</li>
   <li>Marina (web developer)</li>
@@ -31,3 +29,26 @@
 
 ## User Flow
 
+
+
+
+
+## Diagrama UML
+
+``` mermaid
+classDiagram
+class Solicitudes{
+    + int id
+    + string fecha
+    + string departamento
+    + string nombre
+    + string consulta
+    + string descripcion 
+    + rename()
+    + save ()
+    + all()
+    + delete()
+    + findById()
+    + update()
+}
+```

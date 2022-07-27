@@ -133,11 +133,10 @@ class Solicitudes
     {
         $this->database->mysql->query("UPDATE `{$this->table}` 
         SET 
-        `solicitud` =  '{$this->solicitud}', 
         `departamento` =  '{$this->departamento}', 
         `nombre` = '{$this->nombre}',
         `consulta` = '{$this->consulta}',
         `descripcion` = '{$this->descripcion}',
-        WHERE `id` = {$this->id}");
+        WHERE `id` = '{$this->id}'");
     }
 }
