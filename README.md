@@ -4,7 +4,7 @@
 
 ## Install
 
-- composer install and/or composer update
+- composer install (or composer update)
 
 ## 🛠️ Herramientas usadas en este proyecto
 <ul>
@@ -15,7 +15,7 @@
   <li>Zoom</li>
   <li>Bootstrap</li>
   <li>PDO</li>
-  <li>SQL</li>
+  <li>MySQL</li>
   <li>PHPMyAdmin</li>
 </ul>
 
@@ -28,4 +28,6 @@
   <li>Esther (Scrum Master)</li>
   <li>Marybell (Product Owner)</li>
 </ul>
+
+## User Flow
 

@@ -24,7 +24,7 @@ require_once("Components/Header.php"); ?>
                 </div>
                 <div class="input-group" style="width: 90%; margin-left: 5%;">
                     <span class="input-group-text">descripcion</span>
-                    <textarea class="form-control" area-label="With textarea" type="text" name="descripcion" required placeholder="descripcion"></textarea>
+                    <input class="form-control" type="text" name="descripcion" required placeholder="descripcion">
                 </div>
                 <div class="botones " style="margin-bottom: 2rem;">
                     <input class="btn-lg btn-outline-success go-add-task float" type="submit" value="Crear">
