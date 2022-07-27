@@ -61,3 +61,4 @@
 27/07/2022 19:33:49 se ha actualizado ID: 1 con Nombre del Solicitud: Marina con Descripcion: No funciona el ratón, y ya he reiniciado el ordenador, y comprobado los cables.
 27/07/2022 20:05:07 se ha eliminado ID: 23 con Nombre del Solicitud: ASDFASDF con Descripcion: ASDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 27/07/2022 20:15:09 se ha eliminado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 20:49:38 se ha eliminado ID: 25 con Nombre del Solicitud: Cristina con Descripcion: acentó

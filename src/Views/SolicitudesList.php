@@ -34,11 +34,6 @@ require_once("Components/Layout.php");
         <div>
             <h1>Lista de solicitudes</h1>
         </div>
-        <div class="card-header py-3 mb-5">
-            <a href="?action=create">
-                <button type="button" class="btn btn-outline-dark go-add-task float-end btn-lg">Nueva Solicitud</button>
-            </a>
-        </div>
         <div class="solicitudes-container">
 
             <table id="dataTable">
@@ -75,7 +70,6 @@ require_once("Components/Layout.php");
                 </tbody>
             </table>
         </div>
-
     </main>
     <?php
     require_once("Components/Footer.php");
