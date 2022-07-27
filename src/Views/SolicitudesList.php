@@ -1,5 +1,4 @@
 <html>
-
 <?php 
     require_once("Components/Layout.php"); 
 ?>
@@ -8,9 +7,9 @@
     <?php 
         require_once("Components/Header.php");
     ?>
-    <main>
-        <div class="card-header py-3">
-            <h1 class=" font-weight-bold text-white titulo-pagina ">Lista de solicitudes</h1>
+    <main class="form-prueba">
+        <div>
+            <h1>Lista de solicitudes</h1>
         </div>
         <div class="card-header py-3 mb-5">
             <a href="?action=create">

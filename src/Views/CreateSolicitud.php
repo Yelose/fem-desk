@@ -5,30 +5,30 @@ require_once("Components/Header.php"); ?>
 
 <body>
     <div class="create row justify-content-center">
-        <main class="card" style="width: 80%; height:27rem; display:flex; justify-content:center; ">
+        <main class="card">
 
-            <h2 class="text-center" style="margin-bottom: 3rem; margin-top: 1rem;">New appointment</h2>
-            <a href="./index.php"><button type="button" id="button-cancel" class="btn btn-outline-danger button-cancel">Cancel</button></a>
-            <form class="justify-content-center " action='?action=store' method="post">
-                <div class="input-group" style=" margin-bottom: 2rem; width: 90%; margin-left: 5%;">
-                    <span class="input-group-text">Departamento</span>
-                    <input class="form-control" type="text" name="departamento" required placeholder="departamento">
+            <h2>New appointment</h2>
+            <a href="./index.php"><button type="button" id="button-cancel">Cancel</button></a>
+            <form action='?action=store' method="post">
+                <div>
+                    <span>Departamento</span>
+                    <input type="text" name="departamento" required placeholder="departamento">
                 </div>
-                <div class="input-group" style=" margin-bottom: 2rem; width: 90%; margin-left: 5%;">
-                    <span class="input-group-text">Nombre</span>
-                    <input class="form-control" type="text" name="nombre" required placeholder="nombre">
+                <div class="input-group">
+                    <span>Nombre</span>
+                    <input type="text" name="nombre" required placeholder="nombre">
                 </div>
-                <div class="input-group" style=" margin-bottom: 2rem; width: 90%; margin-left: 5%;">
-                    <span class="input-group-text">Consulta</span>
-                    <input class="form-control" type="text" name="consulta" required placeholder="consulta">
+                <div class="input-group">
+                    <span>Consulta</span>
+                    <input type="text" name="consulta" required placeholder="consulta">
                 </div>
-                <div class="input-group" style="width: 90%; margin-left: 5%;">
-                    <span class="input-group-text">descripcion</span>
-                    <input class="form-control" type="text" name="descripcion" required placeholder="descripcion">
+                <div class="input-group">
+                    <span>descripcion</span>
+                    <input type="text" name="descripcion" required placeholder="descripcion">
                 </div>
-                <div class="botones " style="margin-bottom: 2rem;">
-                    <input class="btn-lg btn-outline-success go-add-task float" type="submit" value="Crear">
-                    <input class="btn-lg btn-outline-warning go-add-task float" type="reset" value="Reset">
+                <div class="botones">
+                    <input type="submit" value="Crear">
+                    <input type="reset" value="Reset">
                 </div>
             </form>
         </main>
