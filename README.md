@@ -16,9 +16,9 @@
 ## 🛠️ Herramientas usadas en este proyecto
 
 
-| |
-| :---: |
-| <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/php.png" width="80" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png" width="50" height="50"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google.svg" width="50" height="50"> <img src="https://github.com/Yelose/Yelose/blob/main/img/mysql.png" width="80" height="50"> |
+| Front End | Back End | Diseño y organización | 
+| :---: | :---: | :---: |
+| <img src="https://github.com/Yelose/Yelose/blob/main/img/vscode.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/html.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png">  <img src="https://github.com/Yelose/Yelose/blob/main/img/css.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/php.png">  <img src="https://github.com/Yelose/Yelose/blob/main/img/mysql.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/jira.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/google.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/gimp.png"> |
 
 
 
@@ -26,8 +26,8 @@
 
 ## ✒️ Autoras 
 
-| Nombre | Roll | Github |
-| :---: | :--- | :---
+| Nombre | Roll | <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="30px" height="30px"> |
+| ---: | :---: | :---: |
 | Cristina | Web Developer| https://github.com/CSanchezCadrecha |
 | Marina | Web Developer| https://github.com/Yelose |
 | Sara | Web Developer | https://github.com/Sarap120298 |
