@@ -26,3 +26,10 @@
         Marina con Descripcion: asdfa
 26/07/2022 14:39:10 se ha creado una solicitud con Nombre del Solicitud: 
         Fem-desk con Descripcion: pero cómo es que funciona ¿?¿?¿
+27/07/2022 09:47:31 se ha creado una solicitud con Nombre del Solicitud: 
+        ASDFASDF con Descripcion: ASDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+27/07/2022 10:03:14 se ha creado una solicitud con Nombre del Solicitud: 
+        viejas con Descripcion: bla bla bla bla bla bla bla blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+27/07/2022 10:03:41 se ha eliminado ID: 24 con Nombre del Solicitud: viejas con Descripcion: bla bla bla bla bla bla bla blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+27/07/2022 10:51:42 se ha creado una solicitud con Nombre del Solicitud: 
+        Cristina con Descripcion: acentó

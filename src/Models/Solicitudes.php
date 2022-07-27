@@ -63,20 +63,26 @@ class Solicitudes
     {
         return $this->descripcion;
     }
-
-
-    public function rename($solicitud, $issue)
+    // aquí pasa algo ------------------------------------------
+    //----------------------------------------------------------
+    public function rename($departamento, $nombre, $consulta, $descripcion)
     {
-        $this->solicitud = $solicitud;
-        $this->issue = $issue;
+        $this->departamento = $departamento;
+        $this->nombre = $nombre;
+        $this->consulta = $consulta;
+        $this->descripcion = $descripcion;
     }
 
     public function save(): void
     {
         $this->database->mysql->query("INSERT INTO `{$this->table}` 
         (`departamento`, `nombre`, `consulta`, `descripcion`) 
-        VALUES ('$this->departamento','$this->nombre',
-        '$this->consulta','$this->descripcion')");
+        VALUES ('
+        $this->departamento',
+        '$this->nombre',
+        '$this->consulta',
+        '$this->descripcion')
+        ");
     }
 
     public function all()
@@ -126,7 +132,8 @@ class Solicitudes
     public function Update()
     {
         $this->database->mysql->query("UPDATE `{$this->table}` 
-        SET `solicitud` =  '{$this->solicitud}', 
+        SET 
+        `solicitud` =  '{$this->solicitud}', 
         `departamento` =  '{$this->departamento}', 
         `nombre` = '{$this->nombre}',
         `consulta` = '{$this->consulta}',
