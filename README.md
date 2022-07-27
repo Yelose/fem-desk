@@ -1,3 +1,5 @@
+
+
 ## Required
 
 - PHP 7.4 min
@@ -12,6 +14,10 @@
 <hr>
 
 ## 🛠️ Herramientas usadas en este proyecto
+
+| Herramientas |
+| :---: |
+| <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="50" height="50"> |
 <ul>
   <li>Visual Studio Code</li>
   <li>Figma</li>
