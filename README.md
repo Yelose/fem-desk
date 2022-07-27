@@ -29,3 +29,22 @@
   <li>Marybell (Product Owner)</li>
 </ul>
 
+## Diagrama UML
+
+``` mermaid
+classDiagram
+class Solicitudes{
+    + int id
+    + string fecha
+    + string departamento
+    + string nombre
+    + string consulta
+    + string descripcion 
+    + rename()
+    + save ()
+    + all()
+    + delete()
+    + findById()
+    + update()
+}
+```
