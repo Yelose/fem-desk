@@ -2,9 +2,14 @@
 
 - PHP 7.4 min
 
+
+
 ## Install
 
 - composer install and/or composer update
+
+
+<hr>
 
 ## 🛠️ Herramientas usadas en este proyecto
 <ul>
@@ -20,14 +25,19 @@
 </ul>
 
 
-## ✒️ Autores 
-<ul>
-  <li>Cristina (web developer)</li>
-  <li>Marina (web developer)</li>
-  <li>Sara (web developer)</li>
-  <li>Esther (Scrum Master)</li>
-  <li>Marybell (Product Owner)</li>
-</ul>
+<hr>
+
+## ✒️ Autoras 
+
+| Nombre | Roll | Github |
+| :---: | :--- | :---
+| Cristina | Web Developer| https://github.com/CSanchezCadrecha |
+| Marina | Web Developer| https://github.com/Yelose |
+| Sara | Web Developer | https://github.com/Sarap120298 |
+| Esther | Scrum Master | https://github.com/Estherherrera |
+| Marybell | Product Owner | https://github.com/MBellJDD |
+
+<hr>
 
 ## Diagrama UML
 
