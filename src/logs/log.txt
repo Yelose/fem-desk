@@ -73,9 +73,24 @@
 >>>>>>> marina
 
 28/07/2022 11:59:48 se ha actualizado ID: 19 con Nombre del Solicitud: Sara con Descripcion: la hora de la consulta no se pone automáticamente
+<<<<<<< HEAD
 =======
 28/07/2022 12:36:42 se ha creado una solicitud con Nombre del Solicitud: 
         asdfasdfasdf con Descripcion: asdffffffff f asdfasd fasdf asdf asdf asdf asdf asdf asdf asdf
 28/07/2022 14:18:25 se ha creado una solicitud con Nombre del Solicitud: 
         Marybell con Descripcion: Se nos ha restringido el acceso a la base de datos
 >>>>>>> marina
+=======
+28/07/2022 12:06:43 se ha creado una solicitud con Nombre del Solicitud: 
+        gfgdfgdf con Descripcion: gfgfdg
+28/07/2022 12:06:52 se ha actualizado ID: 1 con Nombre del Solicitud: gfgdfgdf con Descripcion: gfgfdg
+28/07/2022 12:12:21 se ha actualizado ID: 1 con Nombre del Solicitud: gfgdfgdf con Descripcion: gfgfdg
+28/07/2022 12:13:27 se ha creado una solicitud con Nombre del Solicitud: 
+        afafafaf con Descripcion: afadfadf
+28/07/2022 12:13:48 se ha creado una solicitud con Nombre del Solicitud: 
+        ghfghgfh con Descripcion: jfjhjhkjgk
+28/07/2022 12:30:56 se ha creado una solicitud con Nombre del Solicitud: 
+        hdghdgh con Descripcion: hdhdghfj
+28/07/2022 12:35:03 se ha creado una solicitud con Nombre del Solicitud: 
+        hdghdgh con Descripcion: hdhdghfj
+>>>>>>> cristina

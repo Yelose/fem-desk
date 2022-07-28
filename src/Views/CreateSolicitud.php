@@ -7,23 +7,42 @@ require_once("Components/Header.php"); ?>
     <div class="create row justify-content-center">
         <main class="card">
 
-            <h2>New appointment</h2>
-            <form action='?action=store' method="post">
-                <div>
+            <h2>Nueva Solicitud</h2>
+
+            <form action='?action=store' method="post" class="shadow p-3 mb-5 bg-body rounded">
+                <!--  <div class="">
                     <span>Departamento</span>
-                    <input type="text" name="departamento" required placeholder="departamento">
+                    <input class="rounded" class="rounded" type="text" name="departamento" required placeholder="departamento">
                 </div>
-                <div class="input-group">
+                <div>
                     <span>Nombre</span>
-                    <input type="text" name="nombre" required placeholder="nombre">
+                    <input class="rounded" type="text" name="nombre" required placeholder="nombre">
                 </div>
                 <div class="input-group">
                     <span>Consulta</span>
-                    <input type="text" name="consulta" required placeholder="consulta">
+                    <input class="rounded" type="text" name="consulta" required placeholder="consulta">
                 </div>
                 <div class="input-group">
-                    <span>descripcion</span>
-                    <input type="text" name="descripcion" required placeholder="descripcion">
+                    <span>Descripcion</span>
+                    <input class="rounded" type="text" name="descripcion" required placeholder="descripcion">
+                </div>-->
+
+
+                <div class="mb-3">
+                    <label for="input-departament" class="form-label">Departamento</label>
+                    <input type="text" class="form-control rounded-pill" name="departamento" id="input-departament" required placeholder="departamento">
+                </div>
+                <div class="mb-3">
+                    <label for="input-name" class="form-label">Nombre</label>
+                    <input type="text" class="form-control rounded-pill" name="departamento" id="input-name" required placeholder="nombre">
+                </div>
+                <div class="mb-3">
+                    <label for="input-name" class="form-label">Consulta</label>
+                    <input type="text" class="form-control rounded-pill" name="departamento" id="input-name" required placeholder="nombre">
+                </div>
+                <div class="form-group">
+                    <label for="text-description">Descripción</label>
+                    <textarea class="form-control" id="text-description" class="rounded" rows="3"></textarea>
                 </div>
                 <div class="botones">
                     <input type="submit" value="Enviar solicitud">
