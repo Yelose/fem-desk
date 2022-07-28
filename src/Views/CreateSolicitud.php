@@ -10,19 +10,19 @@ require_once("Components/Header.php"); ?>
             <h2>New appointment</h2>
             <form action='?action=store' method="post">
                 <div>
-                    <span>Departamento</span>
+                    <label>Departamento</label>
                     <input type="text" name="departamento" required placeholder="departamento">
                 </div>
                 <div class="input-group">
-                    <span>Nombre</span>
+                    <label>Nombre</label>
                     <input type="text" name="nombre" required placeholder="nombre">
                 </div>
                 <div class="input-group">
-                    <span>Consulta</span>
+                    <label>Consulta</label>
                     <input type="text" name="consulta" required placeholder="consulta">
                 </div>
                 <div class="input-group">
-                    <span>descripcion</span>
+                    <label>descripcion</label>
                     <input type="text" name="descripcion" required placeholder="descripcion">
                 </div>
                 <div class="botones">

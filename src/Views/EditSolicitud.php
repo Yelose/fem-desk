@@ -11,19 +11,19 @@ require_once("Components/Header.php");
 
             <form action='?action=update&id=<?php echo $data["solicitud"]->getId() ?>' method="post">
                 <div class="input-group">
-                    <span class="input-group-text">Departamento:</span>
+                    <label class="input-group-text">Departamento:</label>
                     <input class="form-control" type="text" name="departamento" value='<?php echo $data["solicitud"]->getDepartamento() ?>'>
                 </div>
                 <div class="input-group">
-                    <span class="input-group-text">Nombre:</span>
+                    <label class="input-group-text">Nombre:</label>
                     <input class="form-control" type="text" name="nombre" required value='<?php echo $data["solicitud"]->getNombre() ?>'>
                 </div>
                 <div class="input-group">
-                    <span class="input-group-text">Consulta:</span>
+                    <label class="input-group-text">Consulta:</label>
                     <input class="form-control" type="text" name="consulta" required value='<?php echo $data["solicitud"]->getConsulta() ?>'>
                 </div>
                 <div class="input-group">
-                    <span class="input-group-text">Descripción:</span>
+                    <label class="input-group-text">Descripción:</label>
                     <input class="form-control" area-label="With textarea" type="textarea" name="descripcion" required value='<?php echo $data["solicitud"]->getDescripcion() ?>'>
                 </div>
                 <div class="botones">

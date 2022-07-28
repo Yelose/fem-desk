@@ -79,3 +79,13 @@
 28/07/2022 14:18:25 se ha creado una solicitud con Nombre del Solicitud: 
         Marybell con Descripcion: Se nos ha restringido el acceso a la base de datos
 >>>>>>> marina
+
+28/07/2022 15:06:51 se ha creado una solicitud con Nombre del Solicitud: 
+        Lisi con Descripcion: Se ha comido el ratón y ahora no funciona ni ella ni el ordenador
+28/07/2022 15:12:29 se ha creado una solicitud con Nombre del Solicitud: 
+        asdfasdf con Descripcion: asdfasdfa asdf asdf asdf asdf asdf asdf
+28/07/2022 15:12:39 se ha creado una solicitud con Nombre del Solicitud: 
+        asdfasdf con Descripcion: asdfasdfa asdf asdf asdf asdf asdf asdf
+28/07/2022 15:12:49 se ha creado una solicitud con Nombre del Solicitud: 
+        asdf con Descripcion: asdf
+28/07/2022 15:19:14 se ha actualizado ID: 28 con Nombre del Solicitud: Lisi con Descripcion: Se ha comido el ratón y ahora no funciona ni ella ni el ordenador

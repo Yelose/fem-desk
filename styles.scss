@@ -10,9 +10,13 @@
     --spacing: calc(0.2vw + 0.2vh);
 }
 header {
+    background-color: var(--bg-color);
+}
+.header-content{
+    width: 90%;
+    margin: auto;
     display: flex;
     align-items: center;
-    background-color: var(--bg-color);
     justify-content: space-between;
 }
 nav {
@@ -95,6 +99,7 @@ table {
     max-width: fit-content;
     border: 3px solid white;
     box-shadow: 4px 4px 5px 1px black;
+    margin-bottom: 10vh;
 }
 th {
     background-color: var(--bg-sec-dark);
