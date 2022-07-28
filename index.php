@@ -2,7 +2,9 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/4029e392d6.js" crossorigin="anonymous"></script>
+
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fem Desk</title>
 </head>
@@ -19,4 +21,3 @@
 </body>
 
 </html>
-

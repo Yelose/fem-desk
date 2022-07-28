@@ -136,7 +136,7 @@ class Solicitudes
         `departamento` =  '{$this->departamento}', 
         `nombre` = '{$this->nombre}',
         `consulta` = '{$this->consulta}',
-        `descripcion` = '{$this->descripcion}',
+        `descripcion` = '{$this->descripcion}'
         WHERE `id` = '{$this->id}'");
     }
 }

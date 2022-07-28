@@ -37,4 +37,36 @@
 27/07/2022 10:03:41 se ha eliminado ID: 24 con Nombre del Solicitud: viejas con Descripcion: bla bla bla bla bla bla bla blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 27/07/2022 10:51:42 se ha creado una solicitud con Nombre del Solicitud: 
         Cristina con Descripcion: acentó
+<<<<<<< HEAD
 >>>>>>> a21d3f33c06ee6d9ec199717702063faf10372b4
+=======
+27/07/2022 17:41:58 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:24:09 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:24:20 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:24:21 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:25:36 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:25:43 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:29:26 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:29:32 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:29:32 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:29:37 se ha eliminado ID: 20 con Nombre del Solicitud: Marina con Descripcion: la hora de la consulta no se pone automáticamente
+27/07/2022 18:32:08 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:33:10 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:36:59 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:37:34 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:37:58 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:38:43 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:40:47 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:41:45 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 18:50:27 se ha eliminado ID: 21 con Nombre del Solicitud: Marina con Descripcion: asdfa
+27/07/2022 19:30:38 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 19:32:17 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 19:32:20 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 19:32:34 se ha actualizado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 19:32:51 se ha actualizado ID: 1 con Nombre del Solicitud: Marina con Descripcion: No funciona el ratón, y ya he reiniciado el ordenador, y comprobado los cables.
+27/07/2022 19:33:45 se ha actualizado ID: 1 con Nombre del Solicitud: Marina con Descripcion: No funciona el ratón, y ya he reiniciado el ordenador, y comprobado los cables.
+27/07/2022 19:33:49 se ha actualizado ID: 1 con Nombre del Solicitud: Marina con Descripcion: No funciona el ratón, y ya he reiniciado el ordenador, y comprobado los cables.
+27/07/2022 20:05:07 se ha eliminado ID: 23 con Nombre del Solicitud: ASDFASDF con Descripcion: ASDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+27/07/2022 20:15:09 se ha eliminado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
+27/07/2022 20:49:38 se ha eliminado ID: 25 con Nombre del Solicitud: Cristina con Descripcion: acentó
+>>>>>>> marina

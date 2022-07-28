@@ -30,9 +30,6 @@
 ## User Flow
 
 
-
-
-
 ## Diagrama UML
 
 ``` mermaid
