@@ -89,3 +89,20 @@
 28/07/2022 15:12:49 se ha creado una solicitud con Nombre del Solicitud: 
         asdf con Descripcion: asdf
 28/07/2022 15:19:14 se ha actualizado ID: 28 con Nombre del Solicitud: Lisi con Descripcion: Se ha comido el ratón y ahora no funciona ni ella ni el ordenador
+28/07/2022 16:08:16 se ha eliminado ID: 31 con Nombre del Solicitud: asdf con Descripcion: asdf
+28/07/2022 16:30:33 se ha actualizado ID: 1 con Nombre del Solicitud: Eulalia con Descripcion: No funciona el ratón, y ya he reiniciado el ordenador, y comprobado los cables.
+28/07/2022 16:32:19 se ha actualizado ID: 26 con Nombre del Solicitud: Marina con Descripcion: No funciona el sass, está instalado pero no lo pilla
+28/07/2022 16:33:27 se ha actualizado ID: 28 con Nombre del Solicitud: Tadeo con Descripcion: El gato se comió el ratón, y ahora está jugando con él
+28/07/2022 17:40:39 se ha eliminado ID: 30 con Nombre del Solicitud: asdfasdf con Descripcion: asdfasdfa asdf asdf asdf asdf asdf asdf
+28/07/2022 18:10:31 se ha creado una solicitud con Nombre del Solicitud: 
+        asdf con Descripcion: asdfasdfasdf salñjdlasjdflñasdfjñlasdjkf lñajf lñasdj lñasdjf ñlasj fñlasdjf lñaskjd flñdfj ñlfjñlfjñasjldf ñlasdjf ñlfjñlasdjdf ñlaskjdf ñalsdfj  asdfasdf asdf asdf asdf asdf 
+28/07/2022 18:31:08 se ha eliminado ID: 32 con Nombre del Solicitud: asdf con Descripcion: asdfasdfasdf salñjdlasjdflñasdfjñlasdjkf lñajf lñasdj lñasdjf ñlasj fñlasdjf lñaskjd flñdfj ñlfjñlfjñasjldf ñlasdjf ñlfjñlasdjdf ñlaskjdf ñalsdfj  asdfasdf asdf asdf asdf asdf 
+28/07/2022 18:33:00 se ha creado una solicitud con Nombre del Solicitud: 
+        Pussy con Descripcion: ¿por qué las mascotas de Giaco se llaman Pussy?
+28/07/2022 18:33:55 se ha creado una solicitud con Nombre del Solicitud: 
+        Pepito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 18:44:36 se ha creado una solicitud con Nombre del Solicitud: 
+        Pepito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 18:44:39 se ha creado una solicitud con Nombre del Solicitud: 
+        Pepito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 18:51:45 se ha actualizado ID: 29 con Nombre del Solicitud: Pupa aquí con Descripcion: asdfasdfa asdf asdf asdf asdf asdf asdf

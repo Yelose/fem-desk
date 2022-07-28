@@ -9,6 +9,7 @@ require_once("Components/Layout.php");
         confirmPopUp.innerHTML = `
             <div class="pop-up-container"> 
                 <p>${text}</p>
+                
                 <div class="btns-confirm">
                     <button class="btn-si" type="button">Sí</button>
                     <button class="btn-no" type="button">No</button>
@@ -30,7 +31,7 @@ require_once("Components/Layout.php");
     <?php
     require_once("Components/Header.php");
     ?>
-    <main class="form-prueba">
+    <main>
         <div>
             <h1>Lista de solicitudes</h1>
         </div>
@@ -61,7 +62,7 @@ require_once("Components/Layout.php");
                                 <td>{$solicitud->getDescripcion()}</td>
                                 <td class='edit-delete'>
                                     <a href='?action=edit&id={$solicitud->getId()}'><i class='fa-solid fa-pencil'></i></a>
-                                    <a onclick='confirmacion(\"¿Desea eliminar el elemento?\", function() {location.href = \"?action=delete&id={$solicitud->getId()}\"})' href='javascript:void(0)'><i class='fa-solid fa-trash-can'></i></a> 
+                                    <a onclick='confirmacion(\"¿Desea eliminar el elemento de {$solicitud->getNombre()}, {$solicitud->getConsulta()}?\", function() {location.href = \"?action=delete&id={$solicitud->getId()}\"})' href='javascript:void(0)'><i class='fa-solid fa-trash-can'></i></a> 
                                 </td>
                             </tr>
                         ";

@@ -2,12 +2,27 @@
     --bg-color: hsl(43, 100%, 90%);
     --bg-color-dark: hsl(43, 80%, 80%);
     --second-color: 210;
-    --bg-sec-dark: hsl(var(--second-color), 60%, 60%);
+    --bg-sec-dark: hsl(var(--second-color), 50%, 30%);
     --bg-sec-mid-dark: hsl(var(--second-color), 50%, 50%);
-    --bg-sec-mid: hsl(var(--second-color), 60%, 60%);
+    --bg-sec-mid: hsl(var(--second-color), 60%, 50%);
     --bg-sec-mid-light: hsl(var(--second-color), 60%, 90%);
     --bg-sec-light: hsl(var(--second-color), 60%, 95%);
     --spacing: calc(0.2vw + 0.2vh);
+    --shadow: 2px 2px 3px 1px black;
+    --cancel-color: hsl(3, 54%, 35%);
+    --cancel-hover: hsl(3, 54%, 25%);
+}
+*{
+    box-sizing: border-box !important;
+}
+h1, h2 {
+    text-align: center;
+    background-color: var(--bg-sec-mid-light);
+    color: var(--bg-sec-dark);
+    margin-bottom: calc(var(--spacing)*8);
+}
+h3 {
+    font-size: 18px;
 }
 header {
     background-color: var(--bg-color);
@@ -20,7 +35,18 @@ header {
     justify-content: space-between;
 }
 nav {
+    display: flex;
     padding-right: calc(var(--spacing)*8);
+    justify-content: center;
+    align-items: center;
+    gap: 3vw;
+}
+nav > div {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 100%;
+    padding: var(--spacing);
 }
 
 body {
@@ -39,30 +65,42 @@ img {
     min-width: 90px;
     min-height: 90px;
 }
+.home-icon>i{
+    text-shadow: 2px 2px 3px black;
+    color: var(--bg-sec-mid);
+}
+.home-icon>i:hover{
+    color: var(--bg-sec-dark);
+}
+
 button, input[type=reset], input[type=submit] {
     border-radius: 5px;
     padding: calc(var(--spacing)*2) calc(var(--spacing)*4);
-    box-shadow: 1px 2px 3px 1px black;
+    box-shadow: var(--shadow);
     border: none;
+
 }
 button, input[type=submit]{
     background-color: var(--bg-sec-mid);
 }
 button:hover, input[type=submit]:hover{
     background-color: var(--bg-sec-mid-dark);
+    color: white;
 }
 
 #button-cancel{
-    background-color: hsl(3, 54%, 35%);
+    background-color: var(--cancel-color);
 }
 #button-cancel:hover{
-    background-color: hsl(3, 54%, 25%);
+    background-color: var(--cancel-hover);
+    color: white;
 }
 input[type=reset]{
     background-color: var(--bg-color);
 }
 input[type=reset]:hover{
     background-color: var(--bg-color-dark);
+    color: var(--bg-sec-dark);
 }
 
 .pop-up-mask {
@@ -83,13 +121,31 @@ input[type=reset]:hover{
     padding: 10px;
     width: fit-content;
     height: fit-content;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
 }
 
 .btns-confirm {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: var(--spacing);
+    gap: calc(var(--spacing)*3);
+}
+.btn-no, .btn-si {
+    width: 30%;
+    margin: 5vh 0;
+}
+.btn-si {
+    background-color: var(--bg-sec-mid);
+}
+.btn-si:hover{
+    background-color: var(--bg-sec-mid-dark);
+}
+.btn-no {
+    background-color: var(--cancel-color);
+}
+.btn-no:hover{
+    background-color: var(--cancel-hover);
 }
 
 
@@ -98,11 +154,71 @@ table {
     margin: auto;
     max-width: fit-content;
     border: 3px solid white;
-    box-shadow: 4px 4px 5px 1px black;
+    box-shadow: var(--shadow);
     margin-bottom: 10vh;
 }
+form {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 900px;
+    background-color: white;
+    margin: auto;
+    box-shadow: var(--shadow);
+    gap: 4vh;
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+form > header {
+    background-color: var(--bg-color);
+    padding: calc(var(--spacing)*5) calc(var(--spacing)*10);
+}
+form>section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 calc(var(--spacing)*10);
+
+}
+form>div {
+    padding: 0 calc(var(--spacing)*10);
+
+}
+form>section>div {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: var(--spacing);
+}
+.botones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    padding: var(--spacing);
+    margin-bottom: 5vh;
+}
+.botones > input, .botones >a> button{
+    width: 20vw;
+    max-width: 200px;
+    min-width: fit-content;
+}
+input[type=text]{
+    width: 100%;
+    box-shadow: inset 1px 1px 3px black;
+    border-radius: 5px;
+    border: none;
+    padding: calc(var(--spacing)*3);
+    background-color: var(--bg-color);
+}
+.descripcion>input {
+    background-color: var(--bg-color-dark);
+}
+
 th {
     background-color: var(--bg-sec-dark);
+    color: var(--bg-sec-light);
 }
 th, td {
     padding: calc(var(--spacing)*3);
@@ -135,21 +251,51 @@ footer {
 
 footer > p {
     margin: auto;
+    color: var(--bg-sec-mid-light);
 }
 
 @media only screen and (max-width: 900px) {
-    .table-consulta {
+    .table-consulta, .home-icon {
         display: none;
     }
     table {
         width: 95%;
     }
+    td {
+        font-size: 12px;
+    }
+    a>button>h3 {
+        font-size: 15px;
+    }
+    nav>div>h5 {
+        font-size: 14px;
+    }
+
 }
 @media only screen and (max-width: 600px) {
     table {
-        width: 100%;
+        width: 98%;
+    }
+    td{
+        font-size: 11px;
     }
     .table-nombre {
         display: none;
     }
+    .header-content{
+        width: 100%;
+    }
+    a>button>h3 {
+        font-size: 13px;
+    }
+    nav>div>h5 {
+        font-size: 12px;
+    }
+    form>section {
+        flex-direction: column;
+    }
+    form>section>div {
+        width: 90%;
+    }
+    
 }
