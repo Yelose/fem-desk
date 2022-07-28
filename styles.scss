@@ -1,5 +1,5 @@
 :root {
-    --bg-color: hsl(43, 100%, 90%);
+    --bg-color: hsl(0, 0%, 100%);
     --second-color: 210;
     --bg-sec-dark: hsl(var(--second-color), 60%, 60%);
     --bg-sec-mid: hsl(var(--second-color), 60%, 90%);
@@ -16,7 +16,7 @@ nav {
     padding-right: calc(var(--spacing)*8);
 }
 body {
-    background-image: url("src/assets/img/fem-desk-fondo.png");
+    background-image: url("src/assets/img/fotodefondofemdesk.png");
     background-position: center;
     background-size: cover;
     mask-image: hsla(0, 0%, 100%, 0.341);
@@ -99,6 +99,7 @@ footer {
     bottom: 0;
     left: 0;
 }
+
 footer > p {
     margin: auto;
 }
