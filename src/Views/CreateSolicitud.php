@@ -34,15 +34,15 @@ require_once("Components/Header.php"); ?>
                 </div>
                 <div class="mb-3">
                     <label for="input-name" class="form-label">Nombre</label>
-                    <input type="text" class="form-control rounded-pill" name="departamento" id="input-name" required placeholder="nombre">
+                    <input type="text" class="form-control rounded-pill" name="nombre" id="input-name" required placeholder="nombre">
                 </div>
                 <div class="mb-3">
                     <label for="input-name" class="form-label">Consulta</label>
-                    <input type="text" class="form-control rounded-pill" name="departamento" id="input-name" required placeholder="nombre">
+                    <input type="text" class="form-control rounded-pill" name="consulta" id="input-name" required placeholder="nombre">
                 </div>
                 <div class="form-group">
                     <label for="text-description">Descripción</label>
-                    <textarea class="form-control" id="text-description" class="rounded" rows="3"></textarea>
+                    <input type="text" class="form-control" name="descripcion" id="text-description" class="rounded" >
                 </div>
                 <div class="botones">
                     <input type="submit" value="Enviar solicitud">

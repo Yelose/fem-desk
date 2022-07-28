@@ -95,5 +95,9 @@
         hdghdgh con Descripcion: hdhdghfj
 >>>>>>> cristina
 
+<<<<<<< HEAD
 28/07/2022 15:22:19 se ha creado una solicitud con Nombre del Solicitud: 
+=======
+28/07/2022 15:19:15 se ha creado una solicitud con Nombre del Solicitud: 
+>>>>>>> cristina
         hthtururyu con Descripcion: yrturyu
