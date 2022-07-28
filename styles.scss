@@ -62,6 +62,20 @@ button{
     gap: var(--spacing);
 }
 
+h2{
+    margin-left: 30%;
+
+}
+form{
+    width:40%;
+    margin-left: 30%;
+    border: 1px solid var(--bg-sec-dark);
+}
+
+/* input ,textarea, #button-cancel {
+    background-color: var(--bg-color);
+} */
+
 
 table {
     width: 90%;
