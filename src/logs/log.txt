@@ -95,8 +95,14 @@
 28/07/2022 12:35:03 se ha creado una solicitud con Nombre del Solicitud: 
         hdghdgh con Descripcion: hdhdghfj
 >>>>>>> cristina
+<<<<<<< HEAD
 =======
 
 28/07/2022 14:48:25 se ha actualizado ID: 1 con Nombre del Solicitud: patricia con Descripcion: kscmadsvgfr
 28/07/2022 14:48:38 se ha eliminado ID: 1 con Nombre del Solicitud: patricia con Descripcion: kscmadsvgfr
 >>>>>>> sara
+=======
+
+28/07/2022 15:22:19 se ha creado una solicitud con Nombre del Solicitud: 
+        hthtururyu con Descripcion: yrturyu
+>>>>>>> 00620cff102e6001662dd0b8675d723cd3bb3f15
