@@ -70,3 +70,5 @@
 27/07/2022 20:15:09 se ha eliminado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
 27/07/2022 20:49:38 se ha eliminado ID: 25 con Nombre del Solicitud: Cristina con Descripcion: acentó
 >>>>>>> marina
+
+28/07/2022 11:59:48 se ha actualizado ID: 19 con Nombre del Solicitud: Sara con Descripcion: la hora de la consulta no se pone automáticamente
