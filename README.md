@@ -1,21 +1,14 @@
 
-<img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/lista-solicitudes.png">
-<img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/lista-solicitudes-borrar.png">
-<img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/crear-solicitud.png">
-<img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/editar-solicitud.png">
+<img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/gifs/fem-desk-gif.gif">
 
 <details><summary>Mibile version</summary>
-
 
 <img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/mobile-lista-solicitudes.png" width="45%">
 <img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/mobile-yes-no.png" width="45%">
 <img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/mobile-nueva.png" width="45%">
 <img src="https://github.com/Yelose/fem-desk/blob/main/src/assets/img/mobile-editar.png" width="45%">
 
-
-
 </details>
-
 
 
 ## Required
