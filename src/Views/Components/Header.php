@@ -12,4 +12,5 @@ require_once("Layout.php");
             <button type="button">Nueva Solicitud</button>
         </a>
     </nav>
+    <p><i class="fa-solid fa-phone"></i> +34 56 78 910</p>
 </header>
