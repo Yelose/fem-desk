@@ -4,8 +4,6 @@ require_once("Components/Header.php");
 ?>
 
 <body>
-    <div class="create row justify-content-center">
-        <main class="card">
 
             <h2>Editar Solicitud</h2>
 
@@ -39,8 +37,6 @@ require_once("Components/Header.php");
                 </div>
 
             </form>
-        </main>
-    </div>
     <?php
     require_once("Components/Footer.php");
     ?>

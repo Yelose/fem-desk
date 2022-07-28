@@ -154,3 +154,5 @@
 >>>>>>> 00620cff102e6001662dd0b8675d723cd3bb3f15
 >>>>>>> cc256615aa1147e5bb051cdc864573e1fd6bd8a8
 >>>>>>> ad67fa04d5b322c01d6d65bc2078c90e98f8ec26
+
+28/07/2022 19:08:32 se ha eliminado ID: 36 con Nombre del Solicitud: Pepito con Descripcion: Se atasca el ordenador y no lo entiendo

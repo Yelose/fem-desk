@@ -4,8 +4,6 @@
 require_once("Components/Header.php"); ?>
 
 <body>
-    <div>
-        <main>
 
             <h2>Nueva Solicitud</h2>
             <form action='?action=store' method="post">
@@ -37,8 +35,6 @@ require_once("Components/Header.php"); ?>
                     <a href="./index.php"><button type="button" id="button-cancel">Cancelar</button></a>                    
                 </div>
             </form>
-        </main>
-    </div>
     <?php
     require_once("Components/Footer.php");
     ?>
