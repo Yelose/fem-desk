@@ -101,3 +101,13 @@
 28/07/2022 15:19:15 se ha creado una solicitud con Nombre del Solicitud: 
 >>>>>>> cristina
         hthtururyu con Descripcion: yrturyu
+28/07/2022 15:29:54 se ha creado una solicitud con Nombre del Solicitud: 
+        ghdghdgjdfhdhf con Descripcion: fdhdfhdghdgh
+28/07/2022 15:34:00 se ha creado una solicitud con Nombre del Solicitud: 
+        hola con Descripcion: hola
+28/07/2022 16:59:36 se ha eliminado ID: 8 con Nombre del Solicitud: ghdghdgjdfhdhf con Descripcion: fdhdfhdghdgh
+28/07/2022 16:59:41 se ha eliminado ID: 7 con Nombre del Solicitud: hthtururyu con Descripcion: yrturyu
+28/07/2022 17:11:58 se ha actualizado ID: 1 con Nombre del Solicitud: Hola1 con Descripcion: Hola1
+28/07/2022 17:12:22 se ha eliminado ID: 2 con Nombre del Solicitud: afafafaf con Descripcion: afadfadf
+28/07/2022 17:16:01 se ha actualizado ID: 3 con Nombre del Solicitud: Hola2 con Descripcion: Hola2
+28/07/2022 17:23:51 se ha actualizado ID: 4 con Nombre del Solicitud: hola3 con Descripcion: hdhdghfj

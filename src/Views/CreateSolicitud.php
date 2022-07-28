@@ -10,24 +10,6 @@ require_once("Components/Header.php"); ?>
             <h2>Nueva Solicitud</h2>
 
             <form action='?action=store' method="post" class="shadow p-3 mb-5 bg-body rounded">
-                <!--  <div class="">
-                    <span>Departamento</span>
-                    <input class="rounded" class="rounded" type="text" name="departamento" required placeholder="departamento">
-                </div>
-                <div>
-                    <span>Nombre</span>
-                    <input class="rounded" type="text" name="nombre" required placeholder="nombre">
-                </div>
-                <div class="input-group">
-                    <span>Consulta</span>
-                    <input class="rounded" type="text" name="consulta" required placeholder="consulta">
-                </div>
-                <div class="input-group">
-                    <span>Descripcion</span>
-                    <input class="rounded" type="text" name="descripcion" required placeholder="descripcion">
-                </div>-->
-
-
                 <div class="mb-3">
                     <label for="input-departament" class="form-label">Departamento</label>
                     <input type="text" class="form-control rounded-pill" name="departamento" id="input-departament" required placeholder="departamento">
@@ -37,12 +19,12 @@ require_once("Components/Header.php"); ?>
                     <input type="text" class="form-control rounded-pill" name="nombre" id="input-name" required placeholder="nombre">
                 </div>
                 <div class="mb-3">
-                    <label for="input-name" class="form-label">Consulta</label>
-                    <input type="text" class="form-control rounded-pill" name="consulta" id="input-name" required placeholder="nombre">
+                    <label for="input-question" class="form-label">Consulta</label>
+                    <input type="text" class="form-control rounded-pill" name="consulta" id="input-question" required placeholder="consulta">
                 </div>
                 <div class="form-group">
                     <label for="text-description">Descripción</label>
-                    <input type="text" class="form-control" name="descripcion" id="text-description" class="rounded" >
+                    <input type="text" class="form-control rounded-pill" name="descripcion" id="text-description" class="rounded" >
                 </div>
                 <div class="botones">
                     <input type="submit" value="Enviar solicitud">
