@@ -156,3 +156,13 @@
 >>>>>>> ad67fa04d5b322c01d6d65bc2078c90e98f8ec26
 
 28/07/2022 19:08:32 se ha eliminado ID: 36 con Nombre del Solicitud: Pepito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 20:22:43 se ha actualizado ID: 35 con Nombre del Solicitud: Juanito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 20:22:51 se ha eliminado ID: 35 con Nombre del Solicitud: Juanito con Descripcion: Se atasca el ordenador y no lo entiendo
+28/07/2022 20:29:28 se ha creado una solicitud con Nombre del Solicitud: 
+        hdfgjfghn con Descripcion: wefrvwfrvebn eh errgh t
+28/07/2022 20:29:36 se ha actualizado ID: 37 con Nombre del Solicitud: hdfgjfghn con Descripcion: wefrvwfrve
+28/07/2022 20:29:40 se ha eliminado ID: 37 con Nombre del Solicitud: hdfgjfghn con Descripcion: wefrvwfrve
+28/07/2022 20:31:13 se ha creado una solicitud con Nombre del Solicitud: 
+        asdf con Descripcion: asdf
+28/07/2022 20:31:25 se ha actualizado ID: 38 con Nombre del Solicitud: asdf con Descripcion: asdf asfd
+28/07/2022 20:31:29 se ha eliminado ID: 38 con Nombre del Solicitud: asdf con Descripcion: asdf asfd

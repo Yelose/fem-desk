@@ -14,31 +14,6 @@
 <hr>
 
 ## 🛠️ Herramientas usadas en este proyecto
-<<<<<<< HEAD
-<ul>
-  <li>Visual Studio Code</li>
-  <li>Figma</li>
-  <li>GoogleFonts</li>
-  <li>Bootstrap</li>
-  <li>PDO</li>
-  <li>MySQL</li>
-  <li>PHPMyAdmin</li>
-</ul>
-
-
-## ✒️ Autoras 
-<ul>
-  <li>Cristina (web developer)</li>
-  <li>Marina (web developer)</li>
-  <li>Sara (web developer)</li>
-  <li>Esther (Scrum Master)</li>
-  <li>Marybell (Product Owner)</li>
-</ul>
-
-## User Flow
-
-
-=======
 
 
 | Front End | Back End | Diseño y organización | 
@@ -61,7 +36,6 @@
 
 <hr>
 
->>>>>>> ebe3de98fbc539836b865f43a896fc4e5cae7564
 ## Diagrama UML
 
 ``` mermaid
