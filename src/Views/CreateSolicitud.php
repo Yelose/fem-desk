@@ -8,7 +8,6 @@ require_once("Components/Header.php"); ?>
         <main class="card">
 
             <h2>New appointment</h2>
-            <a href="./index.php"><button type="button" id="button-cancel">Cancel</button></a>
             <form action='?action=store' method="post">
                 <div>
                     <span>Departamento</span>
@@ -27,8 +26,9 @@ require_once("Components/Header.php"); ?>
                     <input type="text" name="descripcion" required placeholder="descripcion">
                 </div>
                 <div class="botones">
-                    <input type="submit" value="Crear">
-                    <input type="reset" value="Reset">
+                    <input type="submit" value="Enviar solicitud">
+                    <input type="reset" value="Reestablecer">
+                    <a href="./index.php"><button type="button" id="button-cancel">Cancelar</button></a>                    
                 </div>
             </form>
         </main>

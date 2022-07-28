@@ -4,14 +4,12 @@ require_once("Components/Header.php");
 ?>
 
 <body>
-    <div class="edit row justify-content-center">
-        <main class="card">
+    <div>
+        <main>
 
-            <h2 class="text-center">Editar Solicitud</h2>
-            <a href="./index.php"><button type="button" id="button-cancel" class="btn btn-outline-danger button-cancel">Cancel</button></a>
+            <h2>Editar Solicitud</h2>
 
-
-            <form class="justify-content-center " action='?action=update&id=<?php echo $data["solicitud"]->getId() ?>' method="post">
+            <form action='?action=update&id=<?php echo $data["solicitud"]->getId() ?>' method="post">
                 <div class="input-group">
                     <span class="input-group-text">Departamento:</span>
                     <input class="form-control" type="text" name="departamento" value='<?php echo $data["solicitud"]->getDepartamento() ?>'>
@@ -30,7 +28,8 @@ require_once("Components/Header.php");
                 </div>
                 <div class="botones">
                     <input type="submit" value="Guardar">
-                    <input type="reset" value="Reiniciar">
+                    <input type="reset" value="Reestablecer">
+                    <a href="./index.php"><button type="button" id="button-cancel">Cancelar</button></a>
                 </div>
             </form>
         </main>

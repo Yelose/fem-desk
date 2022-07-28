@@ -69,6 +69,13 @@
 27/07/2022 20:05:07 se ha eliminado ID: 23 con Nombre del Solicitud: ASDFASDF con Descripcion: ASDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 27/07/2022 20:15:09 se ha eliminado ID: 17 con Nombre del Solicitud: Boñiga con Descripcion: me cago en todo
 27/07/2022 20:49:38 se ha eliminado ID: 25 con Nombre del Solicitud: Cristina con Descripcion: acentó
+<<<<<<< HEAD
 >>>>>>> marina
 
 28/07/2022 11:59:48 se ha actualizado ID: 19 con Nombre del Solicitud: Sara con Descripcion: la hora de la consulta no se pone automáticamente
+=======
+28/07/2022 12:36:42 se ha creado una solicitud con Nombre del Solicitud: 
+        asdfasdfasdf con Descripcion: asdffffffff f asdfasd fasdf asdf asdf asdf asdf asdf asdf asdf
+28/07/2022 14:18:25 se ha creado una solicitud con Nombre del Solicitud: 
+        Marybell con Descripcion: Se nos ha restringido el acceso a la base de datos
+>>>>>>> marina
