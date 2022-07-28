@@ -80,6 +80,7 @@
 28/07/2022 14:18:25 se ha creado una solicitud con Nombre del Solicitud: 
         Marybell con Descripcion: Se nos ha restringido el acceso a la base de datos
 >>>>>>> marina
+<<<<<<< HEAD
 =======
 28/07/2022 12:06:43 se ha creado una solicitud con Nombre del Solicitud: 
         gfgdfgdf con Descripcion: gfgfdg
@@ -94,3 +95,8 @@
 28/07/2022 12:35:03 se ha creado una solicitud con Nombre del Solicitud: 
         hdghdgh con Descripcion: hdhdghfj
 >>>>>>> cristina
+=======
+
+28/07/2022 14:48:25 se ha actualizado ID: 1 con Nombre del Solicitud: patricia con Descripcion: kscmadsvgfr
+28/07/2022 14:48:38 se ha eliminado ID: 1 con Nombre del Solicitud: patricia con Descripcion: kscmadsvgfr
+>>>>>>> sara
