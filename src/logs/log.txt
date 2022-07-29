@@ -166,3 +166,8 @@
         asdf con Descripcion: asdf
 28/07/2022 20:31:25 se ha actualizado ID: 38 con Nombre del Solicitud: asdf con Descripcion: asdf asfd
 28/07/2022 20:31:29 se ha eliminado ID: 38 con Nombre del Solicitud: asdf con Descripcion: asdf asfd
+28/07/2022 21:14:22 se ha creado una solicitud con Nombre del Solicitud: 
+        asdf con Descripcion: asdf
+29/07/2022 09:47:44 se ha creado una solicitud con Nombre del Solicitud: 
+        Ago con Descripcion: sdfasf asdf 
+29/07/2022 09:47:52 se ha actualizado ID: 40 con Nombre del Solicitud: Algo con Descripcion: sdfasf asdf 

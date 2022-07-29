@@ -62,7 +62,9 @@ require_once("Components/Layout.php");
                                 <td>{$solicitud->getDescripcion()}</td>
                                 <td class='edit-delete'>
                                     <a href='?action=edit&id={$solicitud->getId()}'><i class='fa-solid fa-pencil'></i></a>
-                                    <a onclick='confirmacion(\"¿Desea eliminar el elemento de {$solicitud->getNombre()}, {$solicitud->getConsulta()}?\", function() {location.href = \"?action=delete&id={$solicitud->getId()}\"})' href='javascript:void(0)'><i class='fa-solid fa-trash-can'></i></a> 
+                                    <a onclick='confirmacion(\"¿Desea eliminar el elemento de {$solicitud->getNombre()}, 
+                                        {$solicitud->getConsulta()}?\", function() {location.href = \"?action=delete&id={$solicitud->getId()}\"})'
+                                        href='javascript:void(0)'><i class='fa-solid fa-trash-can'></i></a> 
                                 </td>
                             </tr>
                         ";
